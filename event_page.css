@@ -1,0 +1,105 @@
+body{
+		font-family:"Baloo Da 2";
+		padding:0;
+		margin:0;
+		background-color:#f4f4f4;
+		}
+header{
+		padding:10px;
+		}
+.head{
+		padding:10px;
+		font-size:30px;
+		text-align:center;
+		margin:auto;
+		border:2px double #aeaeae;
+		color:white;
+		background-color:#aa00ff;
+		}
+.detail1{
+		paddin:30px;
+		margin:1pc auto;
+		text-align:center;
+		
+		}
+.detail2{
+		padding:30px;
+		margin:1pc auto;
+		text-align:center;
+		}
+#schedule,.speaker{
+		width:70%;
+		font-size:35px;
+		text-align:center;
+		margin:auto;
+		border:2px double #aeaeae;
+		color:white;
+		background-color:#aa00ff;
+		}
+.other,.venue{
+		width:80%;
+		font-size:35px;
+		text-align:center;
+		margin:auto;
+		border:2px double #aeaeae;
+		color:white;
+		background-color:#aa00ff;
+		}
+.top{
+		padding:10px;
+		background-color:#dbdbdb;
+		display:flex;
+		justify-content:space-between;
+		}
+.right{
+		display:flex;
+		}
+.cov,.ham,.reg{
+		padding:8px;
+		align-self:center;
+		font-size:24px;
+	 }
+.reg{
+		background-color:red;
+		}
+.aa,.bb,.cc{
+		padding:10px;
+		text-align:center;
+		border-bottom:1px solid #dbdbdb;
+		}
+.one{
+		padding:10px;
+		}
+.speaker{
+		text-align:center;
+		}
+.where,.venue,.before{
+		padding:10px;
+		text-align:center;
+		}
+.three{
+		padding:10px;
+		text-align:center;
+		margin-bottom:3pc;
+		}
+.a,.b,.c{
+		width:50%;
+		margin:auto;
+		text-align:center;
+		padding:5px;
+		}
+.it{
+		width:90%;
+		margin:auto;
+		text-align:center;
+		padding:15px;
+		}
+.aaa,.bbb,.ccc{
+		padding:5px;
+		}
+#open{
+		width:0px;
+		height:0px;
+		overflow:hidden;
+		transition:height 1s ease;
+		}
